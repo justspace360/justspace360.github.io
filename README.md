@@ -1,2 +1,2 @@
 # justspace360.github.io
-My personal website.
+Just my personal website, which hosts my projects and other content I find interesting.
